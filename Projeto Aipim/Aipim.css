@@ -1,0 +1,24 @@
+body {
+    background-color:khaki
+}
+h1 {
+    color:cadetblue;
+    text-align:center;
+    font-family:impact;
+}
+h4 {
+    color:cadetblue;
+    text-align:center;
+    font-family:'Trebuchet MS'
+}
+p {
+    font-family:'Times New Roman';
+    font-size:large;
+    text-align:center
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto
+}
