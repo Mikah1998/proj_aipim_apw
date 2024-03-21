@@ -5,13 +5,20 @@ h1 {
     color:cadetblue;
     text-align:center;
     font-family:impact;
+    font-size:40px;
 }
 h4 {
     color:cadetblue;
     text-align:center;
     font-family:'Trebuchet MS'
 }
+h2 {
+    color:cadetblue;
+    text-align:center;
+    font-family:'Trebuchet MS'
+}
 p {
+    color:rgb(20, 141, 95);
     font-family:'Times New Roman';
     font-size:large;
     text-align:center
